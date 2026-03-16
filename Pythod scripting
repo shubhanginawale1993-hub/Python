@@ -1,0 +1,18 @@
+Python script 
+########start file with .py extention and run it by python3 file name############
+#############script##############
+#testing Pyton Script
+a= "Shubhangi"
+print (a)
+
+print ("Welcome to Python Wolrd")
+
+#Variable and output
+name = "Python Learner"
+version = 3.12
+print (f"Greeting for the day, {name}! Running python {version}")
+
+#############output##############
+Shubhangi
+Welcome to Python Wolrd
+Greeting for the day, Python Learner! Running python 3.12
